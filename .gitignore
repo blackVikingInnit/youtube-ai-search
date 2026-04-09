@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Data files (VERY IMPORTANT)
+data/videos.json
+data/embeddings.pkl
+
+# OS
+.DS_Store
+Thumbs.db
